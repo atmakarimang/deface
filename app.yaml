@@ -4,4 +4,4 @@ api_version: 1
 handlers:
 
 - url: /.*
-  script: deface_satu.html
+  script: deface_satu.php
